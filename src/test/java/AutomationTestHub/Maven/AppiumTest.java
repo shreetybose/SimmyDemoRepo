@@ -7,6 +7,9 @@ public class AppiumTest {
 	@Test
 	public void getPOSTData() {
 		System.out.println("This is getPOSTData");
+		System.out.println("This is getPOSTData2");
+		System.out.println("This is getPOSTData3");
+		System.out.println("This is getPOSTData4");
 	}
 
 	@Test
