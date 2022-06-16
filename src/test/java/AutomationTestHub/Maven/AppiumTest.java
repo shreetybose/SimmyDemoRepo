@@ -13,7 +13,24 @@ public class AppiumTest {
 	}
 
 	@Test
-	public void deleteTwitter() {
+	public void deleteTwitter1() {
+		System.out.println("This is deleteTwitter");
+	}
+	
+	@Test
+	public void deleteTwitter2() {
+		System.out.println("This is deleteTwitter");
+	}
+	@Test
+	public void deleteTwitter3() {
+		System.out.println("This is deleteTwitter");
+	}
+	@Test
+	public void deleteTwitter4() {
+		System.out.println("This is deleteTwitter");
+	}
+	@Test
+	public void deleteTwitte5r() {
 		System.out.println("This is deleteTwitter");
 	}
 
